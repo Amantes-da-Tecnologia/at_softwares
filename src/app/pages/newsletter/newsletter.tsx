@@ -3,7 +3,7 @@ export default function Newsletter() {
         <div>
             <div className="flex flex-col justify-center items-center text-center mt-32">
                 <h1 className="text-lg font-bold md:text-3xl">Newsletter</h1>
-                <p className="text-[8px] text-gray-400 w-3/4 md:text-lg">Lorem Ipsum is simply dummy text of the printing and  typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+                <p className="text-[8px] text-gray-400 w-3/4 md:text-lg">Lorem Ipsum is simply dummy text of the printing and  typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s</p>
             </div>
 
             <form className="flex flex-col gap-5 w-full px-12 justify-center items-center mt-20">
